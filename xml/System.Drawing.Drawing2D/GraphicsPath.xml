@@ -116,6 +116,7 @@
       <Docs>
         <summary>Initializes a new instance of the <see cref="T:System.Drawing.Drawing2D.GraphicsPath" /> class with a <see cref="P:System.Drawing.Drawing2D.GraphicsPath.FillMode" /> value of <see cref="F:System.Drawing.Drawing2D.FillMode.Alternate" />.</summary>
         <remarks>To be added.</remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.#ctor(System.Drawing.Point[],System.Byte[],System.Drawing.Drawing2D.FillMode)" />
       </Docs>
     </Member>
     <Member MemberName=".ctor">
@@ -151,6 +152,7 @@
         <param name="fillMode">The <see cref="T:System.Drawing.Drawing2D.FillMode" /> enumeration that determines how the interior of this <see cref="T:System.Drawing.Drawing2D.GraphicsPath" /> is filled.</param>
         <summary>Initializes a new instance of the <see cref="T:System.Drawing.Drawing2D.GraphicsPath" /> class with the specified <see cref="T:System.Drawing.Drawing2D.FillMode" /> enumeration.</summary>
         <remarks>To be added.</remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.#ctor(System.Drawing.Point[],System.Byte[],System.Drawing.Drawing2D.FillMode)" />
       </Docs>
     </Member>
     <Member MemberName=".ctor">
@@ -194,6 +196,7 @@
         <param name="types">An array of <see cref="T:System.Drawing.Drawing2D.PathPointType" /> enumeration elements that specifies the type of each corresponding point in the <paramref name="pts" /> array.</param>
         <summary>Initializes a new instance of the <see cref="T:System.Drawing.Drawing2D.GraphicsPath" /> class with the specified <see cref="T:System.Drawing.Drawing2D.PathPointType" /> and <see cref="T:System.Drawing.Point" /> arrays.</summary>
         <remarks>To be added.</remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.#ctor(System.Drawing.Point[],System.Byte[],System.Drawing.Drawing2D.FillMode)" />
       </Docs>
     </Member>
     <Member MemberName=".ctor">
@@ -237,6 +240,7 @@
         <param name="types">An array of <see cref="T:System.Drawing.Drawing2D.PathPointType" /> enumeration elements that specifies the type of each corresponding point in the <paramref name="pts" /> array.</param>
         <summary>Initializes a new instance of the <see cref="T:System.Drawing.Drawing2D.GraphicsPath" /> array with the specified <see cref="T:System.Drawing.Drawing2D.PathPointType" /> and <see cref="T:System.Drawing.PointF" /> arrays.</summary>
         <remarks>To be added.</remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.#ctor(System.Drawing.Point[],System.Byte[],System.Drawing.Drawing2D.FillMode)" />
       </Docs>
     </Member>
     <Member MemberName=".ctor">
@@ -315,6 +319,7 @@
         <param name="fillMode">A <see cref="T:System.Drawing.Drawing2D.FillMode" /> enumeration that specifies how the interiors of shapes in this <see cref="T:System.Drawing.Drawing2D.GraphicsPath" /> are filled.</param>
         <summary>Initializes a new instance of the <see cref="T:System.Drawing.Drawing2D.GraphicsPath" /> array with the specified <see cref="T:System.Drawing.Drawing2D.PathPointType" /> and <see cref="T:System.Drawing.PointF" /> arrays and with the specified <see cref="T:System.Drawing.Drawing2D.FillMode" /> enumeration element.</summary>
         <remarks>To be added.</remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.#ctor(System.Drawing.Point[],System.Byte[],System.Drawing.Drawing2D.FillMode)" />
       </Docs>
     </Member>
     <Member MemberName=".ctor">
@@ -345,6 +350,7 @@
         <param name="fillMode">To be added.</param>
         <summary>To be added.</summary>
         <remarks>To be added.</remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.#ctor(System.Drawing.Point[],System.Byte[],System.Drawing.Drawing2D.FillMode)" />
       </Docs>
     </Member>
     <Member MemberName=".ctor">
@@ -375,6 +381,7 @@
         <param name="fillMode">To be added.</param>
         <summary>To be added.</summary>
         <remarks>To be added.</remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.#ctor(System.Drawing.Point[],System.Byte[],System.Drawing.Drawing2D.FillMode)" />
       </Docs>
     </Member>
     <MemberGroup MemberName="AddArc">
@@ -982,6 +989,7 @@
 
  ]]></format>
         </remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddBeziers(System.Drawing.PointF[])" />
       </Docs>
     </Member>
     <Member MemberName="AddBeziers">
@@ -1076,6 +1084,7 @@
         <param name="points">To be added.</param>
         <summary>To be added.</summary>
         <remarks>To be added.</remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddBeziers(System.Drawing.PointF[])" />
       </Docs>
     </Member>
     <Member MemberName="AddBeziers">
@@ -1106,6 +1115,7 @@
         <param name="points">To be added.</param>
         <summary>To be added.</summary>
         <remarks>To be added.</remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddBeziers(System.Drawing.PointF[])" />
       </Docs>
     </Member>
     <MemberGroup MemberName="AddClosedCurve">
@@ -1175,6 +1185,7 @@
 
  ]]></format>
         </remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddClosedCurve(System.Drawing.Point[],System.Single)" />
       </Docs>
     </Member>
     <Member MemberName="AddClosedCurve">
@@ -1235,6 +1246,7 @@
 
  ]]></format>
         </remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddClosedCurve(System.Drawing.Point[],System.Single)" />
       </Docs>
     </Member>
     <Member MemberName="AddClosedCurve">
@@ -1265,6 +1277,7 @@
         <param name="points">To be added.</param>
         <summary>To be added.</summary>
         <remarks>To be added.</remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddClosedCurve(System.Drawing.Point[],System.Single)" />
       </Docs>
     </Member>
     <Member MemberName="AddClosedCurve">
@@ -1295,6 +1308,7 @@
         <param name="points">To be added.</param>
         <summary>To be added.</summary>
         <remarks>To be added.</remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddClosedCurve(System.Drawing.Point[],System.Single)" />
       </Docs>
     </Member>
     <Member MemberName="AddClosedCurve">
@@ -1359,6 +1373,7 @@
 
  ]]></format>
         </remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddCurve(System.Drawing.PointF[],System.Int32,System.Int32,System.Single)" />
       </Docs>
     </Member>
     <Member MemberName="AddClosedCurve">
@@ -1411,6 +1426,7 @@
 
  ]]></format>
         </remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddClosedCurve(System.Drawing.Point[],System.Single)" />
       </Docs>
     </Member>
     <Member MemberName="AddClosedCurve">
@@ -1443,6 +1459,7 @@
         <param name="tension">To be added.</param>
         <summary>To be added.</summary>
         <remarks>To be added.</remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddClosedCurve(System.Drawing.Point[],System.Single)" />
       </Docs>
     </Member>
     <Member MemberName="AddClosedCurve">
@@ -1475,6 +1492,7 @@
         <param name="tension">To be added.</param>
         <summary>To be added.</summary>
         <remarks>To be added.</remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddClosedCurve(System.Drawing.Point[],System.Single)" />
       </Docs>
     </Member>
     <MemberGroup MemberName="AddCurve">
@@ -1544,6 +1562,7 @@
 
  ]]></format>
         </remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddCurve(System.Drawing.PointF[],System.Int32,System.Int32,System.Single)" />
       </Docs>
     </Member>
     <Member MemberName="AddCurve">
@@ -1634,6 +1653,7 @@
         <param name="points">To be added.</param>
         <summary>To be added.</summary>
         <remarks>To be added.</remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddCurve(System.Drawing.PointF[],System.Int32,System.Int32,System.Single)" />
       </Docs>
     </Member>
     <Member MemberName="AddCurve">
@@ -1664,6 +1684,7 @@
         <param name="points">To be added.</param>
         <summary>To be added.</summary>
         <remarks>To be added.</remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddCurve(System.Drawing.PointF[],System.Int32,System.Int32,System.Single)" />
       </Docs>
     </Member>
     <Member MemberName="AddCurve">
@@ -1716,6 +1737,7 @@
 
  ]]></format>
         </remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddCurve(System.Drawing.PointF[],System.Int32,System.Int32,System.Single)" />
       </Docs>
     </Member>
     <Member MemberName="AddCurve">
@@ -1768,6 +1790,7 @@
 
  ]]></format>
         </remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddCurve(System.Drawing.PointF[],System.Int32,System.Int32,System.Single)" />
       </Docs>
     </Member>
     <Member MemberName="AddCurve">
@@ -1800,6 +1823,7 @@
         <param name="tension">To be added.</param>
         <summary>To be added.</summary>
         <remarks>To be added.</remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddCurve(System.Drawing.PointF[],System.Int32,System.Int32,System.Single)" />
       </Docs>
     </Member>
     <Member MemberName="AddCurve">
@@ -1832,6 +1856,7 @@
         <param name="tension">To be added.</param>
         <summary>To be added.</summary>
         <remarks>To be added.</remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddCurve(System.Drawing.PointF[],System.Int32,System.Int32,System.Single)" />
       </Docs>
     </Member>
     <Member MemberName="AddCurve">
@@ -1902,6 +1927,7 @@
 
  ]]></format>
         </remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddCurve(System.Drawing.PointF[],System.Int32,System.Int32,System.Single)" />
       </Docs>
     </Member>
     <Member MemberName="AddCurve">
@@ -2481,6 +2507,7 @@
 
  ]]></format>
         </remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddLines(System.Drawing.PointF[])" />
       </Docs>
     </Member>
     <Member MemberName="AddLines">
@@ -2541,6 +2568,7 @@
 
  ]]></format>
         </remarks>
+        <exception cref="T:System.ArgumentException" />
       </Docs>
     </Member>
     <Member MemberName="AddLines">
@@ -2571,6 +2599,7 @@
         <param name="points">To be added.</param>
         <summary>To be added.</summary>
         <remarks>To be added.</remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddLines(System.Drawing.PointF[])" />
       </Docs>
     </Member>
     <Member MemberName="AddLines">
@@ -2601,6 +2630,7 @@
         <param name="points">To be added.</param>
         <summary>To be added.</summary>
         <remarks>To be added.</remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddLines(System.Drawing.PointF[])" />
       </Docs>
     </Member>
     <Member MemberName="AddPath">
@@ -2964,6 +2994,7 @@
 
  ]]></format>
         </remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddPolygon(System.Drawing.Point[])" />
       </Docs>
     </Member>
     <Member MemberName="AddPolygon">
@@ -2994,6 +3025,7 @@
         <param name="points">To be added.</param>
         <summary>To be added.</summary>
         <remarks>To be added.</remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddPolygon(System.Drawing.Point[])" />
       </Docs>
     </Member>
     <Member MemberName="AddPolygon">
@@ -3024,6 +3056,7 @@
         <param name="points">To be added.</param>
         <summary>To be added.</summary>
         <remarks>To be added.</remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddPolygon(System.Drawing.Point[])" />
       </Docs>
     </Member>
     <MemberGroup MemberName="AddRectangle">
@@ -3197,6 +3230,7 @@
 
  ]]></format>
         </remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddRectangles(System.Drawing.RectangleF[])" />
       </Docs>
     </Member>
     <Member MemberName="AddRectangles">
@@ -3282,6 +3316,7 @@
         <param name="rects">To be added.</param>
         <summary>To be added.</summary>
         <remarks>To be added.</remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddRectangles(System.Drawing.RectangleF[])" />
       </Docs>
     </Member>
     <Member MemberName="AddRectangles">
@@ -3312,6 +3347,7 @@
         <param name="rects">To be added.</param>
         <summary>To be added.</summary>
         <remarks>To be added.</remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddRectangles(System.Drawing.RectangleF[])" />
       </Docs>
     </Member>
     <Member MemberName="AddRoundedRectangle">
@@ -3338,6 +3374,7 @@
         <param name="radius">To be added.</param>
         <summary>To be added.</summary>
         <remarks>To be added.</remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.AddRoundedRectangle(System.Drawing.RectangleF,System.Drawing.SizeF)" />
       </Docs>
     </Member>
     <Member MemberName="AddRoundedRectangle">
@@ -3360,9 +3397,9 @@
         <Parameter Name="radius" Type="System.Drawing.SizeF" Index="1" FrameworkAlternate="windowsdesktop-9.0;dotnet-plat-ext-9.0" />
       </Parameters>
       <Docs>
-        <param name="rect">To be added.</param>
-        <param name="radius">To be added.</param>
-        <summary>To be added.</summary>
+        <param name="rect">The bounds of the rectangle to add.</param>
+        <param name="radius">The radius width and height used to round the corners of the rectangle.</param>
+        <summary>Adds a rounded rectangle to this path.</summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -4445,9 +4482,9 @@
         <Parameter Name="destination" Type="System.Span&lt;System.Drawing.PointF&gt;" Index="0" FrameworkAlternate="windowsdesktop-9.0;dotnet-plat-ext-9.0" />
       </Parameters>
       <Docs>
-        <param name="destination">To be added.</param>
-        <summary>To be added.</summary>
-        <returns>To be added.</returns>
+        <param name="destination">Span to copy the points into. This should be at least as long as the <see cref="P:System.Drawing.Drawing2D.GraphicsPath.PointCount" />.</param>
+        <summary>Gets the points in the path.</summary>
+        <returns>The count of points copied into the <paramref name="destination" />.</returns>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -4476,9 +4513,9 @@
         <Parameter Name="destination" Type="System.Span&lt;System.Byte&gt;" Index="0" FrameworkAlternate="windowsdesktop-9.0;dotnet-plat-ext-9.0" />
       </Parameters>
       <Docs>
-        <param name="destination">To be added.</param>
-        <summary>To be added.</summary>
-        <returns>To be added.</returns>
+        <param name="destination">Span to copy the types into. This should be at least as long as the <see cref="P:System.Drawing.Drawing2D.GraphicsPath.PointCount" />.</param>
+        <summary>Gets the <see cref="T:System.Drawing.Drawing2D.PathPointType" /> types for the points in the path.</summary>
+        <returns>The count of types copied into the <paramref name="destination" />.</returns>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -5966,6 +6003,7 @@
 
  ]]></format>
         </remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.Warp(System.ReadOnlySpan{System.Drawing.PointF},System.Drawing.RectangleF,System.Drawing.Drawing2D.Matrix,System.Drawing.Drawing2D.WarpMode,System.Single)" />
       </Docs>
     </Member>
     <Member MemberName="Warp">
@@ -6029,6 +6067,7 @@
 
  ]]></format>
         </remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.Warp(System.ReadOnlySpan{System.Drawing.PointF},System.Drawing.RectangleF,System.Drawing.Drawing2D.Matrix,System.Drawing.Drawing2D.WarpMode,System.Single)" />
       </Docs>
     </Member>
     <Member MemberName="Warp">
@@ -6094,6 +6133,7 @@
 
  ]]></format>
         </remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.Warp(System.ReadOnlySpan{System.Drawing.PointF},System.Drawing.RectangleF,System.Drawing.Drawing2D.Matrix,System.Drawing.Drawing2D.WarpMode,System.Single)" />
       </Docs>
     </Member>
     <Member MemberName="Warp">
@@ -6167,6 +6207,7 @@
 
  ]]></format>
         </remarks>
+        <inheritdoc cref="M:System.Drawing.Drawing2D.GraphicsPath.Warp(System.ReadOnlySpan{System.Drawing.PointF},System.Drawing.RectangleF,System.Drawing.Drawing2D.Matrix,System.Drawing.Drawing2D.WarpMode,System.Single)" />
       </Docs>
     </Member>
     <Member MemberName="Warp">
@@ -6204,12 +6245,24 @@
         <Parameter Name="flatness" Type="System.Single" Index="4" FrameworkAlternate="windowsdesktop-9.0;dotnet-plat-ext-9.0" />
       </Parameters>
       <Docs>
-        <param name="destPoints">To be added.</param>
-        <param name="srcRect">To be added.</param>
-        <param name="matrix">To be added.</param>
-        <param name="warpMode">To be added.</param>
-        <param name="flatness">To be added.</param>
-        <summary>To be added.</summary>
+        <param name="destPoints">
+          <para>An array of points that define a parallelogram to which the rectangle defined by <paramref name="srcRect" /></para>
+          <para>is transformed. The array can contain either three or four elements. If the array contains three elements,</para>
+          <para>the lower-right corner of the parallelogram is implied by the first three points.</para>
+        </param>
+        <param name="srcRect">
+          <para>A rectangle that represents the rectangle that is transformed to the parallelogram defined by</para>
+          <para>
+            <paramref name="destPoints" />.</para>
+        </param>
+        <param name="matrix">A matrix that specifies a geometric transform to apply to the path.</param>
+        <param name="warpMode">Specifies whether this warp operation uses perspective or bilinear mode.</param>
+        <param name="flatness">
+          <para>A value from 0 through 1 that specifies how flat the resulting path is. For more information, see the</para>
+          <para>
+            <see cref="M:System.Drawing.Drawing2D.GraphicsPath.Flatten(System.Drawing.Drawing2D.Matrix,System.Single)" /> methods.</para>
+        </param>
+        <summary>Applies a warp transform, defined by a rectangle and a parallelogram, to this <see cref="T:System.Drawing.Drawing2D.GraphicsPath" />.</summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
